@@ -5,5 +5,5 @@ int main() {
     printf("Name: %d\n",n):
     printf("Name: %d"\n,a);
     printf("Name: %d"\n,h);
-    return0
+    return 0;
 }
