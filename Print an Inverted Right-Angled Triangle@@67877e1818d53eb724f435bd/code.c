@@ -7,5 +7,5 @@ for (i=1;i<=n;i++)
         printf("* ");
     }
     printf("\n");
-    return 0;
+return 0;
 }
