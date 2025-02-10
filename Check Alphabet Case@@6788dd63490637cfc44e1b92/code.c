@@ -9,6 +9,5 @@ int main() {
     }else{
         printf("Not an alphabet");
     }
-
-    return 0;
+    return 0;
 }
