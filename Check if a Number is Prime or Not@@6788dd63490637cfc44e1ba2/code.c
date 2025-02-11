@@ -1,10 +1,10 @@
 #include <stdio.h>
 int main() {
     int n,count=0;
-    scanf("%d",&n)
+    scanf("%d",&n);
     for(int i,i<=n,i++){
         if(n%2==0){
-            count++
+            count++;
 
         }
         if{
