@@ -3,10 +3,10 @@ int main(){
     int a,b;
     sanf("%d %d",&a,&b);
     if(b*b==a){
-        printf("Yes")
+        printf("Yes");
     }
     else{
-        printf("No")
+        printf("No");
     }
     return 0;
 }
