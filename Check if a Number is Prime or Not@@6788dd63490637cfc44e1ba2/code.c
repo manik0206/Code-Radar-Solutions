@@ -7,11 +7,11 @@ int main() {
             count++;
 
         }
-        if(count>2){
-                printf("Not Prime");
+        if(count==2){
+                printf("Prime");
             }
         else{
-            printf("Prime");
+            printf(" Not Prime");
         }
     }
     return 0;
