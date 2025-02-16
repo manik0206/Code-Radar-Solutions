@@ -2,7 +2,7 @@
 int main() {
     int n,count=0;
     scanf("%d",&n);
-    for(int i;i<=n;i++){
+    for(int i=1;i<=n;i++){
         if(n%2==0){
             count++;
 
