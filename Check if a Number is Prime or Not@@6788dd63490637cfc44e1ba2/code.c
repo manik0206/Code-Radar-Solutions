@@ -6,13 +6,13 @@ int main() {
         if(n%2==0){
             count++;
 
-        }
+        }}
     if(count==2){
         printf("Prime");
             }
     else{
         printf(" Not Prime");
         }
-    }
+    
     return 0;
 }
